@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
+  },
+  "name": "raphael",
+  "version": "1.0.0",
+  "main": "tribas/bot/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
